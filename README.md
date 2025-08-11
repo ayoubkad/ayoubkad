@@ -4,4 +4,4 @@
 - ♟ J'aime jouer aux échecs et apprendre des langues
 
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ayoubkaddioui&show_icons=true)
+![Stats GitHub](https://applicatione-dcentraliser-3rjknrr0n-ayoubkads-projects.vercel.app/)
